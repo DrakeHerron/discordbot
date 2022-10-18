@@ -1,5 +1,0 @@
-FROM java:8
-WORKDIR /
-ADD discord-bot-1.0-SNAPSHOT-all.jar discord-bot-1.0-SNAPSHOT-all.jar
-EXPOSE 8080
-CMD java -jar C:\Users\drake\IdeaProjects\discord-bot\build\libs\discord-bot-1.0-SNAPSHOT-all.jar
